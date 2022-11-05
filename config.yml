@@ -1,0 +1,8 @@
+Switcher-Egg:
+   Range-of-Blocks: 10
+   No-Range-Message: "&cYou failed to swamp places whit %damagedplayer% as they`re out of range"
+   Shooter-Message: "&eYou`ve swapped places whit &6%damagedplayer%"
+   DamagedPlayer-Message: "&6%shooter% &ehas swapped places whit you"
+   Merca-Descripcion:
+     - "&aLa que dejo sin nariz a Voldemort."
+     - "Cooldown de 2 minutos."

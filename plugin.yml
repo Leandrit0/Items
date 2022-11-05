@@ -1,0 +1,10 @@
+main: ts.plebe.us.Manager
+author: Leandrit0
+contributor: Joako
+description: Experimentando el mundo de bukkit.
+name: zAbilitys
+version: 0.1
+commands:
+    ability:
+       description: command to get ability item.
+       
